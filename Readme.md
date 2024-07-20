@@ -2,7 +2,7 @@
 
 purely javascript based regex engine.
 
-## USAGE
+## Usage
 ```
     node index.js "pattern-to-match" "string-to-find-pattern-in"
 ```
